@@ -24,7 +24,7 @@
         .videoPlayer__controls:first-child{
             display: flex;
             align-items: center;
-            span:first-child{
+            #jsVolumeButton{
                 margin-right: 10px;
             }
         }
